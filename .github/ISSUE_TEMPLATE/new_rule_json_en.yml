@@ -12,7 +12,7 @@ body:
       label: Rule status
       options:
         - label: Rule already exists
-          required: true
+          required: false
   - type: textarea
     attributes:
       label: "Configuration JSON:"
