@@ -1,6 +1,6 @@
-# StorageRedirect-assets
+# Storage-Isolation-Rules
 
-Assets (rules, apks etc) for Storage Isolation app.
+Rules for Storage Isolation app.
 
 https://sr.rikka.app
 
