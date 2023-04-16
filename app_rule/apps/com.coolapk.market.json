@@ -11,7 +11,9 @@
   },
   "recommendation": "@recommended",
   "behaviors": [
-    "@abuse"
+    "@abuse",
+    "<p>",
+    "感谢您使用<b>第三方存储空间隔离在线规则</b>！如果遇到没有被添加的应用或应用的规则不正确，欢迎提交Issues或Pull requests。"
   ],
   "non_standard_files": [
     ".UTSystemConfig",
