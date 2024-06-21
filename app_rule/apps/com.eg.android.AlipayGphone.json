@@ -39,6 +39,17 @@
                     "zh": "尝试修復 <b>XQuickEnergy</b> 失效",
                     "en": "Try to fix <b>XQuickEnergy</b> not work"
                 }
+            },
+            "Sesame-TK": {
+                "source_package": "tkaxv7s.xposed.sesame",
+                "paths": [
+                    "Android/data/tkaxv7s.xposed.sesame"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>Sesame-TK</b> 失效",
+                    "zh": "尝试修復 <b>Sesame-TK</b> 失效",
+                    "en": "Try to fix <b>Sesame-TK</b> not work"
+                }
             }
         }
     }
